@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chase-meyer
-- 👀 I’m interested in Web Development, Mobile Development, and Network Programming.
-- 🌱 I’m currently learning Django and Dotnet frameworks.
-- 💞️ I’m looking to collaborate on Networking, Django, and Dotnet projects.
+- 👀 I’m interested in Systems Programming.
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on Rust projects.
 - 📫 chase.e.meyer@gmail.com
 
 <!---
