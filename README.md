@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chase-meyer
-- 👀 I’m interested in System Programming.
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on Rust projects.
+- 👀 I’m interested in Programming.
+- 🌱 I’m currently learning lots of things.
+- 💞️ I’m looking to collaborate on any project.
 - 📫 chase.e.meyer@gmail.com
 
 <!---
