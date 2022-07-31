@@ -1,4 +1,4 @@
-[chase-meyer](https://chase-meyer.github.io/)
+[home](https://chase-meyer.github.io/)
 
 - 👋 Hi, I’m @chase-meyer
 - 👀 I’m interested in Programming.
