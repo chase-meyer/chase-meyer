@@ -1,9 +1,7 @@
 [home](https://chase-meyer.github.io/)
 
 - 👋 Hi, I’m @chase-meyer
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning lots of things.
-- 💞️ I’m looking to collaborate on any project.
+- 👀 I’m a systems administrator aspiring to become a devops programmer.
 - 📫 chase.e.meyer@gmail.com
 
 <!---
