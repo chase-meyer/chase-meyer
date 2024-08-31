@@ -2,8 +2,6 @@
 
 I'm a Senior Programmer Analyst looking to move to devops.
 
-If you are looking to hirer me here is my resume. 
-
 ## Languages, Tools, Frameworks
 
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=flat&logo=git&labelColor=%23fff)
