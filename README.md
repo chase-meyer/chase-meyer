@@ -18,6 +18,8 @@ I'm a Senior Programmer Analyst looking to move to devops.
 
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=flat&logo=docker&labelColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/azure-%230078D4?style=flat)
+![Static Badge](https://img.shields.io/badge/terraform-%23844FBA?logo=terraform&labelColor=%23fff)
+
 
 
 <!---
