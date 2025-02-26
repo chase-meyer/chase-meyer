@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @chase-meyer
 
-I'm a Senior Programmer Analyst looking to move to devops.
+Senior Programmer Analyst looking to build things.
 
 ## Languages, Tools, Frameworks
 
